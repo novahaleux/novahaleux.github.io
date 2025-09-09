@@ -1,0 +1,96 @@
+.under-construction {
+  	width: 100%;
+  	position: relative;
+  	background-color: #341226;
+  	height: 1024px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 28px;
+  	color: #fff;
+  	font-family: Lancelot;
+}
+.grounded-2-cover-1-icon {
+  	position: absolute;
+  	top: 487px;
+  	left: 651px;
+  	width: 137px;
+  	height: 184px;
+  	object-fit: cover;
+}
+.the-outer-worlds-2-cover-art-1-icon {
+  	position: absolute;
+  	top: 487px;
+  	left: 881px;
+  	width: 133px;
+  	height: 184px;
+  	object-fit: cover;
+}
+.mv5byzvhyjgzndctode3nc00mduzlw-icon {
+  	position: absolute;
+  	top: 487px;
+  	left: 425px;
+  	width: 133px;
+  	height: 184px;
+  	object-fit: cover;
+}
+.this-website-is {
+  	position: absolute;
+  	top: 272px;
+  	left: 332px;
+  	font-size: 40px;
+  	font-family: Labrada;
+}
+.in-the-meantime {
+  	position: absolute;
+  	top: 380px;
+  	left: 469px;
+}
+.or-send-me {
+  	position: absolute;
+  	top: 746px;
+  	left: 617px;
+}
+.full-logo {
+  	position: absolute;
+  	top: 191px;
+  	left: 633px;
+  	width: 173px;
+  	height: 56px;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: 'Nova Cut';
+}
+.full-logo-child {
+  	position: absolute;
+  	height: 101.79%;
+  	width: 101.16%;
+  	top: -1.79%;
+  	right: -0.58%;
+  	bottom: 0%;
+  	left: -0.58%;
+  	background-color: #d5f0e2;
+  	border: 4px solid #d5f0e2;
+  	box-sizing: border-box;
+}
+.nova-hale {
+  	position: absolute;
+  	top: 23.21%;
+  	left: 31.79%;
+}
+.logo-icon {
+  	position: absolute;
+  	width: 19.08%;
+  	top: 11px;
+  	right: 74.57%;
+  	left: 6.36%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 33px;
+  	object-fit: cover;
+}
+.novahale02gmailcom {
+  	position: absolute;
+  	top: 802px;
+  	left: 598px;
+}
+
