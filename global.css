@@ -1,6 +1,7 @@
+@import "tailwindcss";
 
-body {
-  	margin: 0;
-  	line-height: normal;
+@theme inline {
+  --font-labrada: var(--font-labrada);
+  --font-lancelot: var(--font-lancelot);
+  --font-novaCut: var(--font-nova-cut);
 }
-
