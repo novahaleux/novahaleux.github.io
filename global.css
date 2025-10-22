@@ -1,7 +1,0 @@
-@import "tailwindcss";
-
-@theme inline {
-  --font-labrada: var(--font-labrada);
-  --font-lancelot: var(--font-lancelot);
-  --font-novaCut: var(--font-nova-cut);
-}
