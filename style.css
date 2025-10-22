@@ -1,0 +1,141 @@
+.under-construction {
+    background-color: var(--mulberry);
+    width: 100%;
+    min-width: 1440px;
+    min-height: 1024px;
+    position: relative;
+}
+
+.under-construction .grounded-cover {
+    position: absolute;
+    top: 487px;
+    left: 651px;
+    width: 137px;
+    height: 184px;
+    aspect-ratio: 0.75;
+    object-fit: cover;
+}
+
+.under-construction .the-outer-worlds {
+    position: absolute;
+    top: 487px;
+    left: 881px;
+    width: 133px;
+    height: 184px;
+    aspect-ratio: 0.72;
+    object-fit: cover;
+}
+
+.under-construction .img {
+    position: absolute;
+    top: 487px;
+    left: 425px;
+    width: 133px;
+    height: 184px;
+    aspect-ratio: 0.72;
+    object-fit: cover;
+}
+
+.under-construction .text-wrapper {
+    position: absolute;
+    top: 272px;
+    left: 332px;
+    font-family: var(--heading-font-family);
+    font-weight: var(--heading-font-weight);
+    color: #ffffff;
+    font-size: var(--heading-font-size);
+    text-align: center;
+    letter-spacing: var(--heading-letter-spacing);
+    line-height: var(--heading-line-height);
+    font-style: var(--heading-font-style);
+}
+
+.under-construction .div {
+    position: absolute;
+    top: 380px;
+    left: 469px;
+    font-family: var(--subhead-font-family);
+    font-weight: var(--subhead-font-weight);
+    color: #ffffff;
+    font-size: var(--subhead-font-size);
+    text-align: center;
+    letter-spacing: var(--subhead-letter-spacing);
+    line-height: var(--subhead-line-height);
+    white-space: nowrap;
+    font-style: var(--subhead-font-style);
+}
+
+.under-construction .p {
+    position: absolute;
+    top: 746px;
+    left: 617px;
+    font-family: var(--subhead-font-family);
+    font-weight: var(--subhead-font-weight);
+    color: #ffffff;
+    font-size: var(--subhead-font-size);
+    text-align: center;
+    letter-spacing: var(--subhead-letter-spacing);
+    line-height: var(--subhead-line-height);
+    white-space: nowrap;
+    font-style: var(--subhead-font-style);
+}
+
+.under-construction .full-logo {
+    position: absolute;
+    top: 191px;
+    left: 633px;
+    width: 173px;
+    height: 56px;
+}
+
+.under-construction .rectangle {
+    position: absolute;
+    width: 101.16%;
+    height: 101.79%;
+    top: 0;
+    left: 0;
+    background-color: #d5f0e2;
+    border: 4px solid;
+}
+
+.under-construction .text-wrapper-2 {
+    position: absolute;
+    width: 60.69%;
+    height: 51.79%;
+    top: 23.21%;
+    left: 31.79%;
+    font-family: "Nova Cut-Book", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.under-construction .logo {
+    position: absolute;
+    width: 19.08%;
+    top: 11px;
+    left: 6.36%;
+    height: 33px;
+    aspect-ratio: 1;
+    background-image: url(./img/crow-1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.under-construction .text-wrapper-3 {
+    position: absolute;
+    top: 802px;
+    left: 598px;
+    font-family: var(--subhead-font-family);
+    font-weight: var(--subhead-font-weight);
+    color: #ffffff;
+    font-size: var(--subhead-font-size);
+    text-align: center;
+    letter-spacing: var(--subhead-letter-spacing);
+    line-height: var(--subhead-line-height);
+    white-space: nowrap;
+    font-style: var(--subhead-font-style);
+}
