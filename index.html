@@ -3,8 +3,6 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="globals.css" />
-        <link rel="stylesheet" href="styleguide.css" />
         <link rel="stylesheet" href="style.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,35 +10,38 @@
         <link href="https://fonts.googleapis.com/css2?family=Lancelot:wght@400;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Marmelad:wght@400;700&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=NovaCut:wght@400;700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="style.css">
     </head>
-    <body>
-        <div class="under-construction">
-            <a href="https://grounded2.obsidian.net/" target="_blank" rel="noopener noreferrer"
-                ><img class="grounded-cover" src="g2.jpg"
-            /></a>
-            <a href="https://www.obsidian.net/games/the-outer-worlds-2" target="_blank" rel="noopener noreferrer"
-                ><img class="the-outer-worlds" src="ow2.png"
-            /></a>
-            <a
-                href="https://www.netflix.com/title/80148535?source=35&fromWatch=true"
-                target="_blank"
-                rel="noopener noreferrer"
-                ><img
-                    class="img"
-                    src="dc.jpg"
-            /></a>
-            <p class="text-wrapper">This website is currently: Under Construction!</p>
-            <p class="div">in the meantime, check out my current obsessions:</p>
-            <p class="p">or send me an email:</p>
-            <div class="full-logo">
-                <div class="rectangle"></div>
-                <div class="text-wrapper-2">nova hale</div>
-                <img class="logo" src="Crow.png">
-            </div>
-            <a href="mailto:novahale02@gmail.com" target="_blank" rel="noopener noreferrer"
-                ><div class="text-wrapper-3">novahale02@gmail.com</div></a
-            >
+    <body>            
+            <table class="full-logo">
+                <td><img class="crow" src="Crow.png"></td>
+                <td class="brandtext">nova hale</td>
+            </table>
+            <p class="title">This website is currently: Under Construction! <br>
+                in the meantime, check out my current obsessions:</p>
+
+            <!--table for the "current obsessions" section to make it neat-->
+        <div class="currentobsessions">
+            <table>
+                <td class="picturecell">
+                    <a href="https://grounded2.obsidian.net/" target="_blank" rel="noopener noreferrer">
+                    <img class="picture" src="g2.jpg"/>
+                    </a>
+                </td>
+                <td class="picturecell">
+                    <a href="https://www.obsidian.net/games/the-outer-worlds-2" target="_blank" rel="noopener noreferrer">
+                    <img class="picture" src="ow2.png"/>
+                    </a>
+                </td>
+                <td class="picturecell">
+                    <a href="https://www.netflix.com/title/80148535?source=35&fromWatch=true" target="_blank" rel="noopener noreferrer">
+                    <img class="picture" src="dc.jpg"/>
+                    </a>
+                </td>
+            </table>
         </div>
+        <p class="bodytext">or send me an email:</p>
+            <a href="mailto:novahale02@gmail.com" target="_blank" rel="noopener noreferrer">
+                <div class="bodytext">novahale02@gmail.com</div>
+            </a>
     </body>
 </html>
